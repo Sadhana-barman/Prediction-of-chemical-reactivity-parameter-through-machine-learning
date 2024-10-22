@@ -1,4 +1,5 @@
 Prediction of Chemical Reactivity Parameters via Data-driven Approach
+
 Sadhana Barman and Utpal Sarkar*
 Department of Physics, Assam University, Silchar-788011, Assam, India. 
  * Corresponding author: utpalchemiitkgp@yahoo.com
